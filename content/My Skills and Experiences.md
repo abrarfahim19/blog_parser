@@ -15,8 +15,8 @@ Heres the certification I have:
 [[Certification]]
 
 So, I think the course of actions should be as follows:
-1. Get speed on Python and C++ first
-2. Learn DSA with Python
+1. Brush up my skills in Python and C++
+2. Learn DSA with Python/C++
 3. Occasionally solve problem with C++ in competitive programming platform
 4. Machine Learning Algorithm and Certification.
 5. Build Application and portfolio
