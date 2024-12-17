@@ -1,2 +1,4 @@
-[[Test Driven Coding]]
-[[Version Controling]]
+- [[Test Driven Coding]]
+- [[Version Controlling]]
+- [[Database]]
+- [[Django]]
