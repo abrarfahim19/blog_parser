@@ -1,3 +1,7 @@
 1. [[Introduction to Back- End Development Certificate.pdf]]
 2. [[Programming in Python.pdf]]
 3. [[Version Control Certification.pdf]]
+4. [[Advanced Algorithms.pdf]]
+5. [[Supervised Machine Learning - Regression and Classification.pdf]]
+6. [[Unsupervised Algorithm.pdf]]
+7. [[Machine Learning Specialization.pdf]]

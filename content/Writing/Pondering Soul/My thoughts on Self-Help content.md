@@ -49,4 +49,4 @@ They didn't have access to modern neuroscience research. But how did they produc
 
 Ultimately, it ends up reflecting on you own situation. `Pause and Ponder`. Devising our very own formula with carefully thought out tests.
 
-May be you are a muslim. You wake up very early in the morning for `Fajr Prayer`. You have this practice for more than a decade. Yet you can't find energy to do some chore. What do you do?
+May be you are a muslim. You wake up very early in the morning for `Fajr Prayer`. You have this practice for more than a decade. Yet you can't find energy to do some chore. What do you do? 

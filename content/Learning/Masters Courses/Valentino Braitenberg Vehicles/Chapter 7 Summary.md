@@ -1,0 +1,2 @@
+In this chapter `Braitenberg` proposes the vehicles can learn and develop `concepts` through experience. Which sounds like something `Aristotle` said about `emphirical experience`. He introduces a new material called `Mnemotrix Wire`. How it works?
+1. Initially hight resistance, prevents much current flow
