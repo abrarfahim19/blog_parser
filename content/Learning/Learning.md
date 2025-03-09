@@ -1,3 +1,4 @@
-Notes on Programming Languages [[Programming Languages]]
-Machine Learning Algorithms [[Machine Learning Algorithms]]
-Masters Courses in AI [[Masters Courses]]
+Notes on
+1. [[Programming Languages]]
+2. [[Machine Learning Algorithms]]
+3. [[Masters Courses]] in AI 

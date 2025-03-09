@@ -13,11 +13,8 @@ const HightLightNav: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzC
       <a href="/tags" className={`nav-item`}>
         Tags
       </a>
-      <a href="/Algorithm-and-Data-Structure/" className={`nav-item`}>
-        Algorithm
-      </a>
-      <a href="/Programming-Languages/" className={`nav-item`}>
-        Programming
+      <a href="/Learning/Learning" className={`nav-item`}>
+        Learning
       </a>
       <a href="/Writing/" className={`nav-item`}>
         লেখা

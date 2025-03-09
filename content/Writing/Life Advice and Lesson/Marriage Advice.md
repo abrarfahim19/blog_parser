@@ -20,10 +20,10 @@ And Rasullah Sw. warned us about the right of women:
 
 Source: Sunan Ibn Mājah 3678
 
-সূরাহ আদ-দুহার ক্লাসের সময় আমাদের ইসলাম ধর্ম শিক্ষক আমার বন্ধু অর্নব এর মাথায় বুলানোর সময় বলসিলো, "ইয়াতিম এর প্রতি সদয় হয়ে আমি সওয়াব এর ভাগীদার হয়ে গেলাম" তখন এই হাদিস টার কথাও বলসিলেন বলে মনে পড়ে। (ইসলাম ধর্ম শিক্ষক - আমার বাবা) বাবা মারা যাওয়ার পরে ওনার একজন বন্ধু আমার মাথায় রাখসিলো, তখন এই স্মৃতিটা... 
+সূরাহ আদ-দুহার ক্লাসের সময় ইসলাম ধর্ম শিক্ষক আমার বন্ধু অর্নব এর মাথায় হাত বুলাই বলসিলো, "ইয়াতিম এর প্রতি সদয় হয়ে আমিও সওয়াব এর ভাগীদার হয়ে গেলাম। সহপাঠী থেকেই ইয়াতিমের সাথে ভালো ব্যবহার প্রাকটিস করো" তখন এই হাদিস টার কথাও বলসিলেন বলে মনে পড়ে। ইসলাম ধর্ম শিক্ষক-আমার বাবা মারা যাওয়ার পরে ওনার একজন বন্ধু আমার মাথায় রাখসিলো... 
 ### Beauty and Subjectivity
 ![[Getting married enquire.png]]
-Beauty itself is subjective. What Imam meant here is, _The person you marry will be the comfort of your eyes. Social/Cultural norm is the variable_
+Beauty itself is subjective. What Imam meant here is: The person you marry will be the comfort of your eyes. Some people would go to the extreme and say they don't care about the beauty in their spouse. And some would say beauty is the most important element for them. But the Khayer is in the middle. One shouldn't reject a proposal if s/he is pious. So, Deen must come in first. One should look lightly on the matter that concern him first. And deen should be the final verdict. If s/he has Deen. S/He has Khayer wallahi. Don't let the devil deceive you.
 
 > Conceal the key to your heart.
 ![[Ibn Taymiyyah on loving unrestrictedly.png]]
