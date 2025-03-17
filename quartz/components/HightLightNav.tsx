@@ -17,7 +17,7 @@ const HightLightNav: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzC
         Learning
       </a>
       <a href="/Writing/" className={`nav-item`}>
-        লেখা
+        Writing
       </a>
     </div>
   )
